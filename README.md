@@ -8,7 +8,7 @@ I've been learning to code for 4 years on JS, Java, C#, SQL and Kotlin and alway
 
 *   🌍  I'm based in São Paulo, Brazil
 *   ✉️  You can contact me at [kalamorasarquivo@gmail.com](mailto:kalamorasarquivo@gmail.com)
-*   🚀  I'm currently working on [my Android Kotling app called InLocker](http://https://github.com/KalAmoras/inlocker/tags)
+*   🚀  I'm currently working on [my Android Kotlin app called InLocker](http://https://github.com/KalAmoras/inlocker/tags)
 *   🧠  I'm learning React Native and Next.JS hosting
 *   🤝  I'm open to collaborating on JS, Java, SQL and web design projects### Skills 
 <p align="left">
